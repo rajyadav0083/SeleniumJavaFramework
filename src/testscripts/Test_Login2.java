@@ -13,7 +13,7 @@ public class Test_Login2 {
 	 * @throws InterruptedException
 	 */
 	@Test
-	public void Test2(){
+	public void Test3(){
 		EdgeDriver driver=new EdgeDriver();
 		try {
 			driver.navigate().to("https://www.toolsqa.com/");
