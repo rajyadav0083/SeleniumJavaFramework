@@ -4,9 +4,10 @@
 name: Maven GitHub Package
 
 on:
-  release:
-    types: [created]
-
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
 jobs:
   build:
 
