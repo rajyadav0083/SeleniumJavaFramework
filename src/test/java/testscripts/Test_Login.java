@@ -1,4 +1,4 @@
-package testscripts;
+package test.java.testscripts;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
