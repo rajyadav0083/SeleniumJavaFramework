@@ -16,6 +16,7 @@ public class Test_Login2 {
 	public void Test5(){
 		EdgeDriver driver=new EdgeDriver();
 		try {
+			// Test github 2
 			driver.navigate().to("https://www.toolsqa.com/");
 			driver.manage().window().maximize();
 			
