@@ -25,6 +25,7 @@ public class Test_Login {
 		EdgeDriver driver=new EdgeDriver();
 		Logger log = LogManager.getLogger(Test_Login.class);
 		try {
+			// Github
 			log.info("Test started");
 			driver.navigate().to("https://www.toolsqa.com/");
 			driver.manage().window().maximize();

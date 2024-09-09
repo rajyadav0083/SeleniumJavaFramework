@@ -1,3 +1,18 @@
 [INFO ] 2024-02-15 02:15:17.460 [TestNG-test-Test-1] Test_Login - Test started
 [INFO ] 2024-02-15 02:15:19.312 [TestNG-test-Test-1] Test_Login - Text get: QA Practices
 [INFO ] 2024-02-15 02:15:22.329 [TestNG-test-Test-1] Test_Login - Test case executed successfully
+[INFO ] 2024-09-09 22:15:34.316 [main] Test_Login - Test started
+[INFO ] 2024-09-09 22:15:37.414 [main] Test_Login - Text get: QA Practices
+[INFO ] 2024-09-09 22:15:40.422 [main] Test_Login - Test case executed successfully
+[INFO ] 2024-09-09 22:38:00.517 [TestNG-test-Test-1] Test_Login - Test started
+[INFO ] 2024-09-09 22:38:03.792 [TestNG-test-Test-1] Test_Login - Text get: QA Practices
+[INFO ] 2024-09-09 22:38:06.811 [TestNG-test-Test-1] Test_Login - Test case executed successfully
+[INFO ] 2024-09-09 22:39:01.971 [TestNG-test-Test-1] Test_Login - Test started
+[INFO ] 2024-09-09 22:39:04.372 [TestNG-test-Test-1] Test_Login - Text get: QA Practices
+[INFO ] 2024-09-09 22:39:07.375 [TestNG-test-Test-1] Test_Login - Test case executed successfully
+[INFO ] 2024-09-09 22:42:38.955 [TestNG-test-Test-1] Test_Login - Test started
+[INFO ] 2024-09-09 22:42:41.940 [TestNG-test-Test-1] Test_Login - Text get: QA Practices
+[INFO ] 2024-09-09 22:42:44.949 [TestNG-test-Test-1] Test_Login - Test case executed successfully
+[INFO ] 2024-09-09 23:00:49.530 [TestNG-test-Test-1] Test_Login - Test started
+[INFO ] 2024-09-09 23:00:52.517 [TestNG-test-Test-1] Test_Login - Text get: QA Practices
+[INFO ] 2024-09-09 23:00:55.535 [TestNG-test-Test-1] Test_Login - Test case executed successfully
